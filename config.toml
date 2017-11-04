@@ -14,10 +14,6 @@ sidebarFreeText = "Sidebar information"
   piwikSiteID = ""
   piwikURL = ""
 
-[outputs]
-  home = ["HTML", "AMP", "RSS"]
-  page = ["HTML"]
-
 [[menu.main]]
   name = "Coolector"
   post = "<span class='glyphicon glyphicon-fire'></span>"
