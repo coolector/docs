@@ -1,18 +1,15 @@
 baseURL = "https://www.coolector.net/"
 languageCode = "en-us"
 title = "Coolector"
-theme = "strange-case"
+theme = "hugo-theme-learn"
 sidebarDescription = "Coolector description"
 sidebarFreeText = "Sidebar information"
 
 [params]
-  colorScheme = "scheme-darkbrown"
-  DateFormat = "2 Jan 2006"
-  description = "A blog about content"
-  sidebarDescription = "This is my blog about content"
-  sidebarFreeText = "A optional paragraph of free text. Set to blank in config.toml to clear..."
-  piwikSiteID = ""
-  piwikURL = ""
+  themeVariant = "blue"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
 
 [[menu.main]]
   name = "Coolector"
