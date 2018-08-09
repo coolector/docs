@@ -20,4 +20,3 @@ fields:
   name: chapter
 pages:
 - content/introduction/create-first-plugin.md
-- content/api/api.md
