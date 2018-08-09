@@ -19,6 +19,4 @@ fields:
   default: false
   name: chapter
 pages:
-- api.md
-- content/introduction/create-first-plugin.md
 - content/introduction/create-first-plugin.md
