@@ -5,8 +5,6 @@ pre = ""
 title = "Create your first plugin"
 
 +++
-# Plugin
-
 Creating a plugin requires implementing the following elements on the list:
 
 1. Create a manifest file
