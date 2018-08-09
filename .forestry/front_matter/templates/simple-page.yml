@@ -11,8 +11,12 @@ fields:
 - type: datetime
   name: date
   label: Date
+- type: text
+  label: Pre
+  name: pre
 - type: boolean
-  name: is_chapter
-  label: Is chapter
+  label: Chapter
+  default: false
+  name: chapter
 pages:
 - content/introduction/create-first-plugin.md
